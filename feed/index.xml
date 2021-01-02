@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Red Lips</title>
+	<atom:link href="//jaquerv.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>//jaquerv.github.io</link>
+	<description>Beleza &#124; Self-Care </description>
+	<lastBuildDate>Sat, 02 Jan 2021 18:09:10 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>//jaquerv.github.io/wp-content/uploads/2021/01/cropped-pexels-karolina-grabowska-4197563-scaled-1-32x32.jpg</url>
+	<title>Red Lips</title>
+	<link>//jaquerv.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Olá, mundo!</title>
+		<link>//jaquerv.github.io/2021/01/01/ola-mundo/</link>
+					<comments>//jaquerv.github.io/2021/01/01/ola-mundo/#respond</comments>
+		
+		<dc:creator><![CDATA[jackierv]]></dc:creator>
+		<pubDate>Fri, 01 Jan 2021 18:06:11 +0000</pubDate>
+				<category><![CDATA[Sobre Mim]]></category>
+		<guid isPermaLink="false">//jaquerv.github.io/?p=1</guid>
+
+					<description><![CDATA[Me chamo Jaqueline, tenho 25 anos e te dou boas-vindas ao meu primeiro blog. Aqui meu objetivo é compartilhar dicas de beleza do dia-a-dia pra mulheres que não tem tanta paciência pra ficar horas e horas se arrumando como eu. Espero que minhas experiências e...]]></description>
+										<content:encoded><![CDATA[
+<p>Me chamo Jaqueline, tenho 25 anos e te dou boas-vindas ao meu primeiro blog. Aqui meu objetivo é compartilhar dicas de beleza do dia-a-dia pra mulheres que não tem tanta paciência pra ficar horas e horas se arrumando como eu. Espero que minhas experiências e descobertas sejam úteis de alguma forma para quem estiver lendo. &lt;3</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>//jaquerv.github.io/2021/01/01/ola-mundo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
