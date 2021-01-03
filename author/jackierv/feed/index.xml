@@ -9,8 +9,8 @@
 
 <channel>
 	<title>jackierv &#8211; Red Lips</title>
-	<atom:link href="/https://jaquerv.github.io/redlips/author/jackierv/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://jaquerv.github.io/redlips</link>
+	<atom:link href="https://jaquerv.github.io/redlips/author/jackierv/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jaquerv.github.io/redlips</link>
 	<description>Beleza &#124; Self-Care </description>
 	<lastBuildDate>Sat, 02 Jan 2021 18:09:10 +0000</lastBuildDate>
 	<language>pt-BR</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 
 <image>
-	<url>/https://jaquerv.github.io/redlips/wp-content/uploads/2021/01/cropped-pexels-karolina-grabowska-4197563-scaled-1-32x32.jpg</url>
+	<url>https://jaquerv.github.io/redlips/wp-content/uploads/2021/01/cropped-pexels-karolina-grabowska-4197563-scaled-1-32x32.jpg</url>
 	<title>jackierv &#8211; Red Lips</title>
-	<link>/https://jaquerv.github.io/redlips</link>
+	<link>https://jaquerv.github.io/redlips</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Olá, mundo!</title>
-		<link>/https://jaquerv.github.io/redlips/2021/01/01/ola-mundo/</link>
-					<comments>/https://jaquerv.github.io/redlips/2021/01/01/ola-mundo/#respond</comments>
+		<link>https://jaquerv.github.io/redlips/2021/01/01/ola-mundo/</link>
+					<comments>https://jaquerv.github.io/redlips/2021/01/01/ola-mundo/#respond</comments>
 		
 		<dc:creator><![CDATA[jackierv]]></dc:creator>
 		<pubDate>Fri, 01 Jan 2021 18:06:11 +0000</pubDate>
 				<category><![CDATA[Sobre Mim]]></category>
-		<guid isPermaLink="false">/https://jaquerv.github.io/redlips/?p=1</guid>
+		<guid isPermaLink="false">https://jaquerv.github.io/redlips/?p=1</guid>
 
 					<description><![CDATA[Me chamo Jaqueline, tenho 25 anos e te dou boas-vindas ao meu primeiro blog. Aqui meu objetivo é compartilhar dicas de beleza do dia-a-dia pra mulheres que não tem tanta paciência pra ficar horas e horas se arrumando como eu. Espero que minhas experiências e...]]></description>
 										<content:encoded><![CDATA[
@@ -50,7 +50,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://jaquerv.github.io/redlips/2021/01/01/ola-mundo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://jaquerv.github.io/redlips/2021/01/01/ola-mundo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
